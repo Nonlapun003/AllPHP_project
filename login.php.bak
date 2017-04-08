@@ -1,0 +1,26 @@
+
+<html>
+<h3 align ="center">
+<body background = "<iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fphoto.php%3Ffbid%3D802653073170076%26set%3Da.108386459263411.10062.100002761737474%26type%3D3&width=500" width="500" height="642" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>">
+
+
+
+
+
+
+
+
+
+<style type="text/css">body, a:hover {cursor: url(http://ani.cursors-4u.net/anime/ani-13/ani1221.cur), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2013/02/15/hetalia-axis-powers-romano.html" target="_blank" title="Hetalia: Axis Powers - Romano"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Hetalia: Axis Powers - Romano" style="position:absolute; top: 0px; right: 0px;" /></a>
+<FONT Size="30">Login</FONT>
+
+<form action ="admin.php" method ="post">
+
+<p> Username : <input type ="text" name = "user" id="user"> </p> 
+
+<p>Password : <input type ="password" name ="password" id="password"></p>
+
+<p> <input type ="submit" value = "Submit" ></p>
+
+</form>
+</html>

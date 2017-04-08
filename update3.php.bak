@@ -1,0 +1,27 @@
+<html>
+	
+	<?php
+		$a=$_POST['a'];
+		$b=$_POST['b'];
+		$c=$_POST['c'];
+		$y=$_POST['y'];
+		$e=$_POST['e'];
+		$f=$_POST['f'];
+		$g=$_POST['g'];
+		$connect = mysqli_connect("localhost","root","","instrument_shop");
+		//UPDATE `instrument` SET Price = '100' where Serial_no = "ee"
+			$sql = 'update instument set Price = '.$y.' where Serial_no = "'.$f.'"';
+	
+			$result = mysqli_query($connect,$sql);
+				if($result) {
+				echo 'complete';
+			} else {
+				
+				 echo 'no complete';
+			}
+	
+mysqli_close($connect);
+	?>
+
+
+</html>

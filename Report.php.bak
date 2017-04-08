@@ -1,0 +1,39 @@
+<html>
+<body background="http://i-cdn.phonearena.com/images/articles/113609-image/LG-G-Pro-2-wallpapers.jpg">
+<h3 align ="center">
+	<p>Report</p>
+
+	<form method="post" action="Bass_Stock.php">
+		<input type=submit value="Stock of Bass report"><br><br>
+		</form>
+
+
+	<form method="post" action="Guitar_Stock.php">
+		<input type=submit value="Stock of Guitar report"><br><br><br>
+		</form>
+
+
+	<form method="post" action="Money2.php">
+	Report money of Day<br><br>
+	Please input date :
+		<input type= text name= "a"> &nbsp &nbsp EX.(2016-03-30) (Year-Month-Day)<br><br>
+		<input type=submit value="Money report"><br><br><br>
+		</form>
+
+
+	<form method="post" action="Money3.php">
+	Report money of Month<br><br>
+	Please input date :
+		<input type= text name= "a"> &nbsp &nbsp EX.(2016-03) (Year-Month)<br><br>
+		<input type=submit value="Money report"><br><br><br>
+		</form>
+
+
+	<form method="post" action="Money.php">
+	Report money of All<br><br>
+		
+		<input type=submit value="Money report"><br><br><br>
+		</form>
+
+</body>
+</html>
